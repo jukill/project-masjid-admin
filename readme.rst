@@ -3,9 +3,7 @@ Web Admin Masjid
 ###################
 
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+This repo contains PI Project.
 
 ************
 Installation
