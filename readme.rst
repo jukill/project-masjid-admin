@@ -11,10 +11,10 @@ latest stable release please visit the `CodeIgniter Downloads
 Installation
 ************
 
--  `buat table di mySql dengan nama majid`_
--  `impor database masjid.sql`_
--  `email login = admin@masjid.com`_
--  `password login = admin123`_
+-  `buat table di mySql dengan nama majid`
+-  `impor database masjid.sql`
+-  `email login = admin@masjid.com`
+-  `password login = admin123`
 
 
 ***************
